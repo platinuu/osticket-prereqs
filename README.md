@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/ece77627-39e6-4375-b672-377e869a8c48)![image](https://github.com/user-attachments/assets/091b75d7-b6b9-4833-b061-a4a5192d77e2)![image](https://github.com/user-attachments/assets/66bdd450-e02b-4165-a8d8-917a069b054f)# osticket-prereqs
+# osticket-prereqs
 <p align="center">
 <img src="https://i.imgur.com/Clzj7Xs.png"/>
 </p>
